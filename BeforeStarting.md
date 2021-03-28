@@ -3,7 +3,6 @@ shortcut launcher
 
 # git_practice
 
-## BASIC
  ## 과제 내용
  멘토님 과제 설명을 옮겨 적은 내용임
 
